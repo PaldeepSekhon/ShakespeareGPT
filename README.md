@@ -1,1 +1,1 @@
-Developed a Pretrained Transformer modelPython | PyTorch
+Developed a Pretrained Transformer model to mimic shakespearean text 
